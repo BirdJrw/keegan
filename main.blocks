@@ -1,0 +1,43 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="*Zpq?uvdl:]=x/Q..1R3" x="4" y="205"><statement name="HANDLER"><block type="device_show_leds" id="W;A:e(P.DPjt)*O~is3S"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="0sj-cut69(hUl%raTQb@"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="C~U(R=UPs`RbCB{P0[Wh"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></statement></block><block type="device_forever" id="ebqf/2K`.K}QJfV@K^rU" x="381" y="190"><statement name="HANDLER"><block type="device_show_leds" id="oM0d9,h:!20R@z^$L9Pa"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # # # # # 
+        . . . . .
+        `</field></block></statement></block><block type="device_button_event" id="TfCjBJu9?+E@9?YrHv(q" x="388" y="549"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id=",3OuIEe2S_Z)@N551./x"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block><block type="device_button_event" id="XB,Cre)gkVz[4xHm7zan" x="416" y="879"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="1LK6m4l?7ztbFk=Iu}mK"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field></block></statement></block><block type="device_button_event" id="B$4Z*)6v~!6u()=R:jpb" x="5" y="1051"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="z=][jeQ~G5/9xPx89!/Q"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . # # # . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_start_melody" id="0gnw1(_/Ik$@{Q9R$FVq"><field name="options">MelodyOptions.Once</field><value name="melody"><block type="device_builtin_melody" id="@s+vLL!4;MY1=x*2WrW%"><field name="melody">Melodies.Entertainer</field></block></value></block></next></block></statement></block></xml>
